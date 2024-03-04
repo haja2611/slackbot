@@ -24,12 +24,12 @@ you quit this session simply type and enter "splunk exit".
 .env file
 
 # slack 
-SLACK_BOT_TOKEN =xoxb-6656730390053-6659740809491-4XNvjXqrUz1mNNX1t0o7D5lv
-SLACK_APP_TOKEN =xapp-1-A06JZ8D67K9-6659743914675-0a5028506a415b35c681c8cb618b050343eff1aacfa72e5e525a676a23217c5f
+SLACK_BOT_TOKEN =
+SLACK_APP_TOKEN =
 
 # github
-github_token=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
-github_username =cinicyclone
+github_token=
+github_username =
 
 # splunk
 SPLUNK_USERNAME = haja
