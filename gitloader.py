@@ -7,8 +7,8 @@ from datetime import datetime, timezone
 import subprocess
 
 # GitHub credentials
-github_token = "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"
-github_username = "cinicyclone"
+github_token = ""
+github_username = ""
 
 # Initialize GitHub instance
 github_client = Github(github_token)
